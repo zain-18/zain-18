@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zain Rafique
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning ...
-- 📫 zain_rafique.ahmed@hotmail.com
+ Hi, I’m Zain Rafique
+ I’m interested in Data Science and Machine Learning
+ I’m currently learning ...
+ 
 
 <!---
 zain-18/zain-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
