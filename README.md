@@ -1,6 +1,6 @@
--Hi, I’m Zain Rafique
--I’m interested in Data Science and Machine Learning
--I’m currently learning ...
+- Hi, I’m Zain Rafique
+- I’m interested in Data Science and Machine Learning
+- I’m currently learning ...
  
 
 <!---
