@@ -1,6 +1,6 @@
-👋 Hi, I’m @zain-18
-👀 I’m interested in Data Science, Machine Learning, Data Scrapping/Extraction
-🌱 I’m currently working on FLASK, FASTAPI with SQLALCHEMY & Pydantic to build Web Applications 
+- 👋 Hi, I’m @zain-18
+- 👀 I’m interested in Data Science, Machine Learning, Data Scrapping/Extraction
+- 🌱 I’m currently working on FLASK, FASTAPI with SQLALCHEMY & Pydantic to build Web Applications 
  
 
 <!---
